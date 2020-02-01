@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Leaderboard : MonoBehaviour
 {
-    public string[] names = new string[10];
+    public string[] names = [new string[10]];
     public float number = 0f;
 
     public void Start()
