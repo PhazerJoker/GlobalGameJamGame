@@ -234,16 +234,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   names:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  - I
+  - K
+  number: 10
 --- !u!4 &1443833788
 Transform:
   m_ObjectHideFlags: 0
